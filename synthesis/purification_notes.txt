@@ -1,0 +1,5 @@
+Batch #3: Recrystallization in 60/40 ethanol-water gave clear needlelike crystals.  
+Melting point: 135°C (matches literature value 134-136°C).  
+Yield: 78%.  
+No unreacted salicylic acid detected by FTIR.  
+Impurities: trace acetyl group signal observed, negligible by NMR.

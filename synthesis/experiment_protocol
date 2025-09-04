@@ -1,7 +1,7 @@
 # Aspirin Synthesis Experimental Protocol
 
 **Objective:**  
-Synthesize aspirin (acetylsalicylic acid) by esterification of salicylic acid with acetic anhydride.
+Synthesize aspirin (acetylsalicylic acid) by esterification of salicylic acid with acetyl chloride.
 ## Theory
 Aspirin (acetylsalicylic acid) was first synthesized in 1893 by Felix Hofmann. 
 This compound had the medicinal properties of salicylic acid (an extract of willow bark), 
@@ -15,9 +15,15 @@ the upper intestinal tract, it hydrolyzes forming the salicylate and acetate ion
 - Salicylic acid 
 - Acetyl Chloride
 - Concentrated H2SO4 (few drops, catalyst)
+-Pyridine
+-Ethanol
 - Distilled water, ice
 
+##Safety
+Use gloves so as to avoid any contact of pyridine with your skin. Do not inhale it. Be careful during H2SO4 use.
+
 ## Procedure
+
 1.Place 1.0 g of salicylic acid in a 100 ml beaker.
 2.Add 2.0 ml of pyridine (just sufficient to dissolve the salicylic acid), keeping the beaker in an ice-bath. 
 Keep the beaker in the hood while doing this addition.

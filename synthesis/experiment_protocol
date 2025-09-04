@@ -2,22 +2,35 @@
 
 **Objective:**  
 Synthesize aspirin (acetylsalicylic acid) by esterification of salicylic acid with acetic anhydride.
+## Theory
+Aspirin (acetylsalicylic acid) was first synthesized in 1893 by Felix Hofmann. 
+This compound had the medicinal properties of salicylic acid (an extract of willow bark), 
+without the unpleasant taste or the high degree of irritation of the mucous membranes lining the mouth,
+gullet and stomach.
+Aspirin is used extensively as a pain killer (analgesic) and as a fever-reducing drug (antipyretic). 
+When ingested, acetylsalicylic acid remains intact in the acidic stomach, but in the basic medium of 
+the upper intestinal tract, it hydrolyzes forming the salicylate and acetate ions.
 
 ## Materials
-- Salicylic acid (2.0 g)
-- Acetic anhydride (4.0 mL)
+- Salicylic acid 
+- Acetyl Chloride
 - Concentrated H2SO4 (few drops, catalyst)
 - Distilled water, ice
 
 ## Procedure
-1. Place 2.0 g salicylic acid in a dry conical flask.
-2. Add 4.0 mL acetic anhydride.
-3. Carefully add 3-4 drops conc. H2SO4, swirl to mix.
-4. Warm in a water bath at ~60°C for 15 minutes.
-5. Pour the mixture into 50 mL cold distilled water, stir.
-6. Collect crude aspirin by vacuum filtration.
-7. Recrystallize the product from ethanol/water mixture.
-8. Dry the purified aspirin at room temperature.
-
+1.Place 1.0 g of salicylic acid in a 100 ml beaker.
+2.Add 2.0 ml of pyridine (just sufficient to dissolve the salicylic acid), keeping the beaker in an ice-bath. 
+Keep the beaker in the hood while doing this addition.
+3. Add 2.0 ml of acetyl chloride and 0.1 ml of concentrated H2SO4 to the solution in the beaker. 
+Stir the solution thoroughly using a glass rod. Keep the mixture in the hood.
+4.Add 15 ml of cold distilled water to the mixture and heat 60oC on a hot plate to ensure total dissolution. 
+5.Cool to room temperature.  Place in an ice-bath until crystals begin to form.
+6.Filter the mixture. Wash the crystals with cold distilled water and dry between pieces of filter paper.
+7. Transfer the crystals into a 50 ml beaker. Add 10 ml of ethanol and 10 ml of water. 
+8. Heat the mixture until all the ethanol evaporates.
+9. Cool the solution to room temperature. Place this solution in an ice-bath so as to induce crystallization
+10. Filter the solution. Wash the crystals with cold distilled water. Dry the crystals between pieces of filter paper and weigh.
+11. Characterization the product by IR, 1H- NMR, MP.
+ 
 ## Calculations
 - Calculate % yield: (experimental mass / theoretical mass) * 100
